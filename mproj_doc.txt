@@ -1,0 +1,23 @@
+CONTENTS
+
+CHAPTER 										PAGE NO
+Acknowledgement										i
+1. INTRODUCTION									1
+	1.1 System Configuration								2
+	1.2 Tools and Technologies used 							3
+2. SYSTEM REQUIREMENT AND ANALYSIS
+	2.1 Functional Requirements 								00
+	2.2 Non-Functional Requirements 							00
+3. SYSTEM DESIGN
+	3.1 Flow Diagram			 						00
+	3.2 Entity Relationship Diagram 							00
+4. SYSTEM IMPLEMENTATION
+	4.1 Modules 										00
+	4.2 Table Design 									00
+	4.3 Views 										00 
+5. SYSTEM TESTING
+	5.1 System Testing 									00
+	5.2 Integration Testing 								00
+	5.3 Unit Testing										00
+7. BIBLIOGRAPHY										00
+6. CONCLUSION									00	
